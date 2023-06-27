@@ -1,12 +1,12 @@
 [
-    {"nama": "Topi", "namaInggris": "Hat", "imageId": "cap"},
-    {"nama": "Gaun", "namaInggris": "Dress", "imageId": "dress"},
-    {"nama": "Saputangan", "namaInggris": "Handkerchief", "imageId": "handkerchief"},
-    {"nama": "Tudung", "namaInggris": "Hoodie", "imageId": "hoodie"},
-    {"nama": "Baju", "namaInggris": "Shirt", "imageId": "shirt"},
-    {"nama": "Celana Pendek", "namaInggris": "Shorts", "imageId": "shorts"},
-    {"nama": "Rok", "namaInggris": "Skirt", "imageId": "skirt"},
-    {"nama": "Kaus Kaki", "namaInggris": "Socks", "imageId": "socks"},
-    {"nama": "Setelan", "namaInggris": "Suit", "imageId": "suit"},
-    {"nama": "Celana Panjang", "namaInggris": "Trousers", "imageId": "trousers"}
+    {"nama": "Topi", "namaInggris": "Hat", "imageResId": "cap"},
+    {"nama": "Gaun", "namaInggris": "Dress", "imageResId": "dress"},
+    {"nama": "Saputangan", "namaInggris": "Handkerchief", "imageResId": "handkerchief"},
+    {"nama": "Tudung", "namaInggris": "Hoodie", "imageResId": "hoodie"},
+    {"nama": "Baju", "namaInggris": "Shirt", "imageResId": "shirt"},
+    {"nama": "Celana Pendek", "namaInggris": "Shorts", "imageResId": "shorts"},
+    {"nama": "Rok", "namaInggris": "Skirt", "imageResId": "skirt"},
+    {"nama": "Kaus Kaki", "namaInggris": "Socks", "imageResId": "socks"},
+    {"nama": "Setelan", "namaInggris": "Suit", "imageResId": "suit"},
+    {"nama": "Celana Panjang", "namaInggris": "Trousers", "imageResId": "trousers"}
 ]
